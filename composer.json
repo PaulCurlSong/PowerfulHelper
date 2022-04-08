@@ -6,7 +6,10 @@
     "autoload": {
         "psr-4": {
             "Zzan\\Pwfhlr\\": "src/"
-        }
+        },
+        "files": [ 
+            "src/Helper.php" 
+        ]
     },
     "authors": [
         {
