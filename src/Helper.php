@@ -5,7 +5,7 @@
 namespace Zzan\Pwfhlr;
 
 /**
- * 封装 json_encode(不进行unicode编码)
+ * 装 json_encode(不进行unicode编码)
  * @return json
  */
 if (! function_exists('Zzan\Pwfhlr\Json')) {
